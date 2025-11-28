@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+.violet{
+    color: violet;
+    text-align: center;
+}
+.blue{
+    color: blue;
+}
+code{
+    font-size: 1.5em;
+}
